@@ -1,2 +1,11 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+
+Link: https://teenage.engineering
+
+
+# Paragraph
+This is not an article, but the website of a company i find super inspiring in my software engineering work. The products this company produces do an incredible job of creating intuitive user interfaces that work well and are enjoyable to use, down to the simple task fo navigating a manu. I try to emulate this in my own work. 
+
+
+
